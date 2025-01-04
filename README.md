@@ -65,7 +65,7 @@ Welcome to the Procurement Management System for TechFix! This system is designe
 - **Service Layer:** This is where Service-Oriented Computing (SOC) comes in. It introduces a separation between business logic and the other layers, allowing each component to work independently and communicate via APIs.
 
 
-## 📦 Scrrenshots
+## 📦 Screenshots
 ![login](https://github.com/user-attachments/assets/5594df93-dc2e-4c11-a64a-1446c84f7140)
 
 ![Screenshot 2024-12-27 171814 - Copy](https://github.com/user-attachments/assets/d98db182-8aea-497b-8592-7c7cf906bc30)
