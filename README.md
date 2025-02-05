@@ -83,7 +83,6 @@ The system follows a **Model-View-Controller-Service (MVC-S)** architecture, com
 ## 📦 Screenshots
 
 Here’s a sneak peek of the system's user interface:
-
 ![login](https://github.com/user-attachments/assets/5594df93-dc2e-4c11-a64a-1446c84f7140)
 ![Admin Dashboard](https://github.com/user-attachments/assets/d98db182-8aea-497b-8592-7c7cf906bc30)
 ![Product Management](https://github.com/user-attachments/assets/b679a608-d5b6-4913-8b39-c209d6e2992a)
