@@ -1,4 +1,4 @@
-# Procurement Management System for TechFix
+# Procurement Management System for TechFix🖥️
 ## Developed with Mern Stack using Service-Oriented Architecture (SOC)
 
 Welcome to the **Procurement Management System for TechFix**! This system is designed to streamline procurement processes, making it easy to manage suppliers, quotations, and users efficiently. It is built using the **MERN Stack** and follows a **Model-View-Controller-Service (MVC-S)** architecture, which combines traditional MVC design patterns with **Service-Oriented Computing (SOC)** principles.
